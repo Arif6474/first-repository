@@ -130,6 +130,13 @@ margin-right: 150px;
     width: 100%;
  
 }
+.library{
+    padding-left: 30px;
+}
+.library-image{
+    padding-right: 50px;
+    padding-top: 13px;
+}
 
 
 small{
