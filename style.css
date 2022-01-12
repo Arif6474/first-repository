@@ -1,3 +1,156 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
 h1{
-    color: brown;
+    font-size: 31px;
+    margin-left: 8px;
+    line-height: 15px;
+    padding-top: 3px;
+
+}
+.adjust{
+    border-left: 3.5px solid rgb(236, 101, 101);
+    height: 67px;
+    margin-top: 60px;
+    
+}
+.yellowcolor{
+    color:olive
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.help{
+    margin-top: 50px;
+}
+.half{
+    width: 50%;
+    padding-left: 6%;
+}
+.half img{
+    width: 60%;
+
+}
+.pic{
+padding-top: 10px;
+}
+.explore{
+    text-decoration: none;
+background-image: linear-gradient(orange , rgb(247, 15, 15));
+color: white;
+font-size: small;
+   padding: 5px 48px;
+   border-radius: 5PX;
+}
+.document{
+    text-decoration: none;
+background-image: linear-gradient(orange ,red);
+color: white;
+font-size: small;
+   padding: 5px 48px;
+   border-radius: 5PX;
+}
+.devlop{
+    margin-bottom: 100px;
+}
+.cook{
+    padding-left: 100px;
+}
+.single{
+margin-right: 150px;
+}
+#center{
+    margin-bottom: 30px;
+}
+.third{
+    margin-bottom: 100px;
+}
+.hello{
+    background-color :#b3e4ec;
+    border-radius: 5%; 
+    
+}
+.hey{
+    background-color:rgb(245, 239, 151);
+   margin-left: 6%;
+   border-radius: 5%;
+
+}
+.hi{
+    background-color:rgb(248, 196, 178);
+    margin-left: 6%;
+    border-radius: 5%;
+}
+#center{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.main{
+    width: 23%;
+    margin-left: 60px;
+    margin-right: 50px;
+    padding-left: 20px;
+
+} 
+.chovi{
+    width: 150px;
+}
+.main img{
+    width: 100%;
+}
+.fourth{
+    margin-bottom: 100px;
+}
+.small-container{
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.offer{
+  background: radial-gradient(#fff , #f57878);
+  margin-top: 80px;
+  padding: 30px 0;
+}
+.col-2{
+    flex-basis: 48%;
+   min-width: 100px;
+ padding-left: 5px;
+}
+.col-2 img{
+    width: 100%;
+ 
+}
+
+
+small{
+  color: #777;
+  font-size: 16px;
+ 
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer h1{
+    padding-top: 30px;
+}
+footer h1 #red {
+    color: red;
+    font-size: 40px;
+    
+}
+footer p {
+    padding-bottom: 5px;
 }
